@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Disc Projector</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="speed">Speed</string>
+    <string name="glide">Glide</string>
+    <string name="turn">Turn</string>
+    <string name="fade">Fade</string>
+
+    <string name="canvas_top_view">Top View</string>
+    <string name="canvas_side_view">Side View</string>
+</resources>
